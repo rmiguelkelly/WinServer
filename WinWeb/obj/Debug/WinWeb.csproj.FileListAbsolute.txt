@@ -1,0 +1,6 @@
+c:\users\ronan\onedrive\documents\visual studio 2017\Projects\WinWeb\WinWeb\bin\Debug\WinWeb.exe.config
+c:\users\ronan\onedrive\documents\visual studio 2017\Projects\WinWeb\WinWeb\bin\Debug\WinWeb.exe
+c:\users\ronan\onedrive\documents\visual studio 2017\Projects\WinWeb\WinWeb\bin\Debug\WinWeb.pdb
+c:\users\ronan\onedrive\documents\visual studio 2017\Projects\WinWeb\WinWeb\obj\Debug\WinWeb.exe
+c:\users\ronan\onedrive\documents\visual studio 2017\Projects\WinWeb\WinWeb\obj\Debug\WinWeb.pdb
+c:\users\ronan\onedrive\documents\visual studio 2017\Projects\WinWeb\WinWeb\obj\Debug\WinWeb.csprojResolveAssemblyReference.cache
